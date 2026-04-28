@@ -3,12 +3,17 @@ Data Warehouse Project
 Building a data warehouse project using SQL Server, including ETL processes, and data modeling.
 
 Overview
+
 Welcome to the Data Warehouse repository.
+
 This is a data warehouse project designed as a portfolio piece.
 
 Data Warehouse Project Requirements
+
 Objective
+
 Develop a modern data warehouse using SQL Server to consolidate data, enabling analytical reporting and informed decision-making.
+
 Specifications
 
 1. Data Sources
